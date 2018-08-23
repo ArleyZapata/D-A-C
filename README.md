@@ -21,5 +21,36 @@ La informacion  como un recusrso  de la organizacion
    Conduccion   de entrevista
     Estructura del reporte  de la entrevista 
     
-   Cuestionario 
-   Tipo de informacion 
+   Cuestionarios 
+   Tipo de informacion buscada 
+   planeacion para  el uso de cuestionarios 
+   
+   
+   observaciones 
+   tipos de informacion buscada 
+   observacion del ambiente fisico 
+   
+   
+   Unidad3: El proceso de analisis 
+   Diagrama de flujo de datos 
+     El enfoque de flijo de datos para la determinacion de requerimientos 
+     Desarollo de diagramas de flojos de datos 
+     Diagrama de flujos logicos y fisaicos 
+     Particion del flijo de datos 
+     
+     El diccionario de datos 
+     El almacen de datos 
+     Creacion del diccionario de datos 
+     Uso del diccionario de datos 
+     
+     Descripcion de especifcaciones  de proceso y de desiciones estructuradas 
+     
+     Metodos disponibles
+     Panoramica de las especificaciones de procesos 
+     Lenguaje estructurado
+     Tablas de deciciones 
+     Arboles de deciociones 
+     Seleccion  de una tecnica  de analisis de deciciones estructurada
+     
+     
+ 
